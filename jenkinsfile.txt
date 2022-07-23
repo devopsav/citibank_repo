@@ -1,0 +1,13 @@
+stages {
+ 
+         stage1{
+
+       //logic
+
+   }
+
+            stage2{
+         //logic2
+      }
+
+    }
