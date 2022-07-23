@@ -9,5 +9,12 @@ stages {
             stage2{
          //logic2
       }
+      
+          stage3{
+          //logic3
+       }
+        stage4
+        //logic4
+        }
 
     }
